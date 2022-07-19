@@ -1,1 +1,1 @@
-This respository contains the solutions of my problems solved by me on Leetcode. Feel free to suggest changes in them :)  
+This respository contains the solutions of my problems solved by me on Leetcode , codeforces , codechef(Practice and contests). Feel free to suggest changes in them :)  
